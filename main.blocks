@@ -1,25 +1,25 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="V2HBKXciH-VY?V727fhn" x="50" y="-181"><statement name="HANDLER"><block type="playMelody" id="^-pBh#xtaAr$OQTBT.fQ"><value name="melody"><shadow type="melody_editor" id="jRuZxi|:e?]sOKDgw|/g"><field name="melody">"F B A F F A B D "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="{gd@bdQjSa(iD[T9XT*k"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">200</field></shadow></value></block></statement></block><block type="pxt-on-start" id="{l`A^mkFACE-KpFuH;2G" x="530" y="-131"></block><block type="device_button_event" id="2[3;IBe3gp!0NWA7qm}s" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="m_X$J?(1b~Iq09gS8:Lw"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="=!7o[cBG%gB4HopM34gd" x="50" y="-181"><statement name="HANDLER"><block type="playMelody" id="uVG7r*Iw9ljW?vry6RC,"><value name="melody"><shadow type="melody_editor" id="`dT%9[6:pA[p~;LNq8``"><field name="melody">"F B A F F A B D "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="7+I[Jp`Q0Rm?6h10*e9*"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">200</field></shadow></value></block></statement></block><block type="pxt-on-start" id="Ii3tRsD^!VhS(5Z_5pHy" x="530" y="-131"></block><block type="device_button_event" id="pu_)6Xj$`DY,oBlz_C9k" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="Lv$a+_tOko`{h7u@Ds-u"><field name="LEDS">`
         . . . . . 
         . # . # . 
         . . . . . 
         # . . . # 
         . # # # .
-        `</field></block></statement></block><block type="device_button_event" id=",WFIO45-4Eci.__otQ;/" x="-4" y="310"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id=".KjFyhO)[pFre1:Gn|1)"><field name="LEDS">`
+        `</field></block></statement></block><block type="device_button_event" id="$P3epKeR#}oL!lK78f3)" x="-4" y="310"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="s/ItuNpj3cf/!}tYM]br"><field name="LEDS">`
         . . . . . 
         . # . # . 
         . . . . . 
         # # # # # 
         . . . . .
-        `</field></block></statement></block><block type="device_button_event" id="T]V;~/ky4U{A.jw*ybq`" x="2" y="629"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="X6Q`$?J3K{?X74ZMz6mr"><field name="LEDS">`
+        `</field></block></statement></block><block type="device_button_event" id="za{:[ia/xHmRMweEHzm_" x="2" y="629"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="M0wA~;67kO6,3-:Zc_n4"><field name="LEDS">`
         # # # # # 
         # # # # # 
         # # # # # 
         # # # # # 
         # # # # #
-        `</field></block></statement></block><block type="device_gesture_event" id="[La[3QA(!!%IrU{JEYt(" x="2" y="944"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="Z_F7iIMlr{kT]xeb0}Kx"><field name="LEDS">`
+        `</field></block></statement></block><block type="device_gesture_event" id="b$XGSJK/{y}qSibz$cW(" x="2" y="944"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="!1xJVz)TlD1-V8G6r-9K"><field name="LEDS">`
         . . . . . 
         . # . # . 
         . . . . . 
         . # # # . 
         # . . . #
-        `</field></block></statement></block><block type="device_gesture_event" id="[{Nh`hs{Ee)]Tod@2lG=" x="-26" y="1253"><field name="NAME">Gesture.TiltLeft</field></block></xml>
+        `</field></block></statement></block><block type="device_gesture_event" id="GN;Q*bJLB/gCK3d4:3pG" x="9" y="1259"><field name="NAME">Gesture.TiltLeft</field><statement name="HANDLER"><block type="device_print_message" id=";B0@D5(Zg(hI5pJVC7P4"><value name="text"><shadow type="text" id=",~pB2Wmo8o1WSi%!cq$^"><field name="TEXT">what's up</field></shadow></value></block></statement></block><block type="input_logo_event" id="e%~4n@u*t14KCtfolY}r" x="-1" y="1408"><field name="action">TouchButtonEvent.Pressed</field></block></xml>
